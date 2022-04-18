@@ -1,0 +1,24 @@
+h1 {
+	font-family: 'Oswald', sans-serif;
+	text-align: center;
+}
+
+span {
+	font-size: 1.5em;
+}
+span:nth-of-type(2) {
+    text-decoration: line-through;
+}
+p{ 
+    font-weight: /*100-800, bold,*/ bold;
+    line-height: 1.3;
+    text-align: center /*left right*/;
+}
+
+img {
+	height: 320px;
+	width: 31%;
+	float: left;
+	margin: 1%;
+
+}
